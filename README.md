@@ -1,2 +1,2 @@
-# Nate Stewart Portfolio
-Data Science Portfolio by Nate Stewart
+# Nate Stewart Portfolio Projects
+Data Science Portfolio Projects by Nate Stewart
